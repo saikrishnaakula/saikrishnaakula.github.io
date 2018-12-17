@@ -1,0 +1,116 @@
+.sidebar {
+    background: #2b435b;
+    color: white;
+}
+
+.profile-img {
+    width: 202px;
+    height: 203px;
+    margin-top: 2rem;
+    border: 0.5rem white;
+}
+
+.contact-list {
+    list-style: none;
+    margin-top: 1.5rem;
+    padding-left: 1.4rem;
+}
+
+.contact-list li {
+    margin-top: 0.5rem;
+}
+
+.contact-list li i {
+    color: #F9855E;
+    margin-right: 0.2rem;
+}
+
+.sdiebar-heading {
+    font-weight: 300 !important;
+    padding-left: 1.4rem;
+}
+
+.sdiebar-heading i {
+    color: #F9855E;
+    margin-left: 8rem;
+}
+
+.side-text p {
+    font-weight: 100 !important;
+    padding-left: 1.5rem;
+}
+
+.sdiebar-heading-social {
+    font-weight: 300 !important;
+    padding-left: 0.4rem;
+}
+
+.sdiebar-heading-social i {
+    color: #F9855E;
+    margin-left: 9.6rem;
+}
+
+.contact-list-social {
+    list-style: none;
+    padding-left: 0.4rem;
+}
+
+.contact-list-social li {
+    margin-top: 0.5rem;
+}
+
+.contact-list-social li i {
+    color: #F9855E;
+    margin-right: 0.2rem;
+}
+
+.job-title {
+    margin-top: 2.5rem;
+    margin-left: 1.4rem;
+    color: #3b454e;
+}
+
+.name-heading {
+    font-size: 3rem;
+    font-weight: 100;
+    border-left-style: solid;
+    border-left-color: #406e9c;
+    border-left-width: 0.7rem;
+    border-right-style: solid;
+    border-right-color: #406e9c;
+    border-right-width: 2rem;
+    padding-left: 2rem;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.edu-title {
+    margin-top: 2rem;
+    border-left-style: solid;
+    border-left-color: #d84d43;
+    border-left-width: 0.5rem;
+    padding-left: 0.8rem;
+    height: 2rem;
+    line-height: 2rem;
+    background-color: beige;
+    color: darkgray;
+}
+
+.degree {
+    font-size: small;
+    font-weight: 400;
+}
+
+.tech-expr {
+    font-size: small;
+    font-weight: 200;
+    margin-left: 1rem;
+}
+
+.certi-list {
+    list-style: none;
+}
+
+.certi-list li i{
+    color: #F9855E;
+}
